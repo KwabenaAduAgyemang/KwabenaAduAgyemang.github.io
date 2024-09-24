@@ -7,7 +7,6 @@ Gameplay
 Controls
 Features
 Installation
-Credits
 
 # Gameplay
 In Squash the Creep, you play as a brave character whose mission is to squash the creepy crawlers appearing on the platform. The game becomes progressively challenging as more creeps appear, and you have to navigate through various obstacles and traps.
@@ -49,5 +48,4 @@ Alternatively, you can play the game directly from the web version here.
 
 ![Screenshot 2024-09-23 at 11 32 37 PM](https://github.com/user-attachments/assets/4ad69e5f-a7b6-4782-ae8b-dd3bf16f78bf)
 
-## Credits
-`art/House In a Forest Loop.ogg` Copyright &copy; 2012 [HorrorPen](https://opengameart.org/users/horrorpen), [CC-BY 3.0: Attribution](http://creativecommons.org/licenses/by/3.0/). Source: https://opengameart.org/content/loop-house-in-a-forest
+
